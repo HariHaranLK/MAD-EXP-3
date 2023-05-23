@@ -127,5 +127,13 @@ Registeration Number : 212221040051
 
 
 
+
+
+
+
+
+
+
+
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the google page using Android Studio is developed and executed successfully.

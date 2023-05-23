@@ -120,8 +120,8 @@ Registeration Number : 212221040051
   ![XML](https://github.com/HariHaranLK/MAD-EXP-3/assets/132996089/b1ed6ed0-17df-47b6-8127-1de06ae6dbd3) <br>
   ![Main](https://github.com/HariHaranLK/MAD-EXP-3/assets/132996089/0ad0b719-2862-4b24-9149-9b880e70f580) <br>
   ![1](https://github.com/HariHaranLK/MAD-EXP-3/assets/132996089/5cbec425-a6f8-4827-abf7-375a2de3c6b0) <br>
-  ![2](https://github.com/HariHaranLK/MAD-EXP-3/assets/132996089/85440148-dd0b-423e-9f49-e4fee90d75ee) <br><br><br><br>
-  ![3](https://github.com/HariHaranLK/MAD-EXP-3/assets/132996089/09508035-6799-45a5-89fd-703fa9ecaf1f) <br>
+  ![2](https://github.com/HariHaranLK/MAD-EXP-3/assets/132996089/85440148-dd0b-423e-9f49-e4fee90d75ee) <br>
+  ![3](https://github.com/HariHaranLK/MAD-EXP-3/assets/132996089/09508035-6799-45a5-89fd-703fa9ecaf1f) <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the google page using Android Studio is developed and executed successfully.
